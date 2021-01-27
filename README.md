@@ -15,4 +15,4 @@ OS
 
 To test this project, you can run python main.py.
 To know how to use cosine similarity function, you can open and check in the cosine_function.ipynb
-*** Note : The output of main.py is data table with close match and similarity, you can custom the treshold inside this code, enjoy ***
+\n*** Note : The output of main.py is data table with close match and similarity, you can custom the treshold inside this code, enjoy ***
